@@ -26,7 +26,7 @@ flowchart LR
 
 - **No server, no dependencies, no build step.** Plain HTML, CSS and JavaScript on Manifest V3; running cost is zero.
 - **Minimal permissions:** storage, alarms, optional notifications, one API host. No content scripts.
-- **Adaptive cache:** 30 s around live matches, 5 min otherwise.
+- **Adaptive cache:** 30 s around live matches, 5 min otherwise. A list older than 30 min is never shown on open; an animated logo loading screen waits for fresh data instead.
 
 ## Engineering details
 
