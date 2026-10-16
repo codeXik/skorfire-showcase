@@ -13,11 +13,12 @@ Live scores, today's fixtures, league tables and goal notifications from the bro
 | ![Match list](images/screenshot-1-en.png) | ![Table](images/screenshot-3-en.png) |
 | ![Notifications](images/screenshot-5-en.png) | ![Live stats](images/screenshot-6-en.png) |
 
-## What's new in 2.5
+## What's new
 
-Current version: **2.5.4**
+Current version: **2.6.0**
 
-- **Test notification:** a "📣 Test notification" link under each notification switch in Settings sends a sample goal, match-started or reminder notification, so you can check your system settings before a real match.
+- **2.6 — Loading screen everywhere:** standings, top scorers, fixtures, match and team views show the animated logo loader; a "⟳ Refresh" button appears under it after a few seconds to reload by hand.
+- **2.5 — Test notification:** a "📣 Test notification" link under each notification switch in Settings sends a sample goal, match-started or reminder notification, so you can check your system settings before a real match.
 - **Clickable team names:** a faint dotted underline (solid green on hover) shows that a team name opens the team page.
 - **Followed teams** stand out in matte gold, with the star on the outer side of the team.
 - **Cleaner notifications:** the image "match started" notification now shows just the match name.
