@@ -2,26 +2,28 @@
 
 ![SkorFire](images/promo-marquee-1400x560.png)
 
-Live scores, today's fixtures, league tables and goal notifications from the browser toolbar. Free, no account, no ads, no tracking. Chrome, Edge and Firefox; 19 languages.
+Live scores, today's fixtures, league tables and goal notifications from the browser toolbar. Free, no account, no ads, no tracking. Chrome, Edge and Firefox (desktop and Android); 19 languages.
 
-**Install:** [Chrome Web Store](https://chromewebstore.google.com/detail/apallmfeiokillgdbpedodafkgampneh) · [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/neljlflmnlamhdkdgdpokgiaieplmmia) · [Website](https://skynonlabs.com/browser-extensions/skorfire/) · [Privacy](https://skynonlabs.com/browser-extensions/skorfire/privacy/) · [Türkçe](README.tr.md)
+**Install:** [Chrome Web Store](https://chromewebstore.google.com/detail/apallmfeiokillgdbpedodafkgampneh) · [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/neljlflmnlamhdkdgdpokgiaieplmmia) · [Firefox](https://addons.mozilla.org/firefox/addon/skorfire-live-football/) · [Website](https://skynonlabs.com/browser-extensions/skorfire/) · [Privacy](https://skynonlabs.com/browser-extensions/skorfire/privacy/) · [Türkçe](README.tr.md)
 
 > This repository is a showcase. The source code is private. Not affiliated with ESPN.
 
 | | |
 |---|---|
-| ![Match list](images/screenshot-1-en.png) | ![Table](images/screenshot-3-en.png) |
-| ![Notifications](images/screenshot-5-en.png) | ![Live stats](images/screenshot-6-en.png) |
+| ![Match list](images/screenshot-1-en.png) | ![Team card](images/screenshot-7-en.png) |
+| ![Live stats](images/screenshot-6-en.png) | ![Pre-match](images/screenshot-2-en.png) |
+| ![Table](images/screenshot-3-en.png) | ![Notifications](images/screenshot-5-en.png) |
 
-## What's new
+## New in 2.8.1
 
-Current version: **2.6.0**
+Rolling out through store review (October 2026).
 
-- **2.6 — Loading screen everywhere:** standings, top scorers, fixtures, match and team views show the animated logo loader; a "⟳ Refresh" button appears under it after a few seconds to reload by hand.
-- **2.5 — Test notification:** a "📣 Test notification" link under each notification switch in Settings sends a sample goal, match-started or reminder notification, so you can check your system settings before a real match.
-- **Clickable team names:** a faint dotted underline (solid green on hover) shows that a team name opens the team page.
-- **Followed teams** stand out in matte gold, with the star on the outer side of the team.
-- **Cleaner notifications:** the image "match started" notification now shows just the match name.
+- **Team card:** league and table line (P W D L GD Pts), the team's top scorer and assister, last 5 results with opponent logos.
+- **Share menu:** WhatsApp, X, Facebook, Telegram, Reddit, LinkedIn, email or copy link.
+- **Live block:** "Live · N matches" header and a clearer green; live matches also stay in their own league card.
+- **League header ⋯ menu:** fixtures, table, favourite and remove from list in one place.
+- **Last 5 boxes open that match;** hovering shows the date.
+- **Firefox for Android** (Firefox 142 or later).
 
 ## Architecture
 
