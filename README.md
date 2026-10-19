@@ -25,6 +25,14 @@ Rolling out through store review (October 2026).
 - **Last 5 boxes open that match;** hovering shows the date.
 - **Firefox for Android** (Firefox 142 or later).
 
+## Earlier releases
+
+- **2.6 — Loading screen everywhere:** standings, top scorers, fixtures, match and team views show the animated logo loader; a "⟳ Refresh" button appears under it after a few seconds to reload by hand.
+- **2.5 — Test notification:** a "📣 Test notification" link under each notification switch in Settings sends a sample goal, match-started or reminder notification, so you can check your system settings before a real match.
+- **Clickable team names:** a faint dotted underline (solid green on hover) shows that a team name opens the team page.
+- **Followed teams** stand out in matte gold, with the star on the outer side of the team.
+- **Cleaner notifications:** the image "match started" notification now shows just the match name.
+
 ## Architecture
 
 ```mermaid
