@@ -10,8 +10,6 @@ Canlı skor, günün maçları, puan durumu ve gol bildirimi; tarayıcı araç �
 
 ## 2.9.0'da yeni
 
-Mağaza incelemesinden geçerek yayılıyor (Ekim 2026).
-
 ![Takım kartı](images/screenshot-7-tr.png)
 
 - **Takım kartında lig sırası:** takımın sırası logosunun altında, kendi renginde, son 5 maçın yanında; basınca puan durumu açılır.

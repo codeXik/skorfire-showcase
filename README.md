@@ -16,8 +16,6 @@ Live scores, today's fixtures, league tables and goal notifications from the bro
 
 ## New in 2.9.0
 
-Rolling out through store review (October 2026).
-
 - **League rank on the team card:** the team's position sits under its logo in the team's own colour, next to the last 5 results; tap it to open the table.
 
 ## 2.8.1
