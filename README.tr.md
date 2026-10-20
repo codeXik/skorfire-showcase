@@ -8,11 +8,15 @@ Canlı skor, günün maçları, puan durumu ve gol bildirimi; tarayıcı araç �
 
 > Bu repo bir vitrindir; kaynak kod özeldir. ESPN ile bağlantılı değildir.
 
-## 2.8.1'de yeni
+## 2.9.0'da yeni
 
 Mağaza incelemesinden geçerek yayılıyor (Ekim 2026).
 
 ![Takım kartı](images/screenshot-7-tr.png)
+
+- **Takım kartında lig sırası:** takımın sırası logosunun altında, kendi renginde, son 5 maçın yanında; basınca puan durumu açılır.
+
+## 2.8.1
 
 - **Takım kartı:** lig ve puan tablosu satırı (O G B M AV P), takımın golcüsü ve asistçisi, rakip logolu son 5 maç.
 - **Paylaş menüsü:** WhatsApp, X, Facebook, Telegram, Reddit, LinkedIn, e-posta veya bağlantıyı kopyala.

@@ -14,9 +14,13 @@ Live scores, today's fixtures, league tables and goal notifications from the bro
 | ![Live stats](images/screenshot-6-en.png) | ![Pre-match](images/screenshot-2-en.png) |
 | ![Table](images/screenshot-3-en.png) | ![Notifications](images/screenshot-5-en.png) |
 
-## New in 2.8.1
+## New in 2.9.0
 
 Rolling out through store review (October 2026).
+
+- **League rank on the team card:** the team's position sits under its logo in the team's own colour, next to the last 5 results; tap it to open the table.
+
+## 2.8.1
 
 - **Team card:** league and table line (P W D L GD Pts), the team's top scorer and assister, last 5 results with opponent logos.
 - **Share menu:** WhatsApp, X, Facebook, Telegram, Reddit, LinkedIn, email or copy link.
